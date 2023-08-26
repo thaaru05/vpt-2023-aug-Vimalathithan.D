@@ -20,5 +20,6 @@ Thaarugeshwari K S ~ 22i270@psgtech.ac.in
 Sanjay A C~ 22i355@psgtech.ac.in 
 
 How to Use the code 
+
 paste this command-> git clone https://github.com/vimalathithan17/vpt-2023-aug-Vimalathithan.D/
-nuw you can see the page by installing live server or fiveserver extension and navigating to the index.html file and clicking go live at the bottom. 
+Now you can see the page by installing live server or fiveserver extension and navigating to the index.html file and clicking go live at the bottom. 
