@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="upgrade-insecure-requests"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="images/books.png" type="image/x-icon" />
+    <title>The Book Hub</title>
+    <script src="main.js" defer></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <section class="search">
+          <img class="image" src="images/search-bg2.jpg" alt="" />
+          <div class="top-content">
+            <h1 class="search_head">
+              The book Hub
+            </h1>
+            <div class="searchbar">
+              <input id="inp" type="text" placeholder="Search for books and categories..."/>
+              <img
+                src="images/icons8-search.svg"
+                alt=""
+                class="btn"
+                onclick="fetchbooks()"
+              />
+            </div>
+          </div>
+        </section>
+        <section id="result">
+          <h3 class="result_head"></h3>
+          <div class="container_result" id="container_result"></div>
+        </section>
+        <section id="book_details">
+          <!-- 
+          <h5 id="book_title"><span>Lorem, ipsum dolor.</span></h5>
+          <div id="book_detail_container">
+            <div class="book_img">
+              <img
+                src="https://covers.openlibrary.org/b/isbn/9780534385569-M.jpg"
+                alt=""
+              />
+            </div>
+           
+              <div class="details">
+                <h5 id="book_author">Author: <span>harry potter</span></h5>
+                
+                <h5 id="book_publisher">
+                  Publisher: <span>Lorem, ipsum.</s>
+                </h5>
+                <h5 id="book_first_published">
+                  First published year: <span>2019</span>
+                </h5>
+                <h5 id="book_description">
+                  description:
+                  <br>
+                    <span>
+                    Lorem ipsum dolor sit, amet
+                    consectetur adipisicing elit. Dolorem, optio! Lorem ipsum
+                    dolor sit amet consectetur, adipisicing elit. Aperiam dolore
+                    non voluptate cupiditate repellat exercitationem assumenda
+                    dolor facere nemo tenetur.</span>
+                </h5>
+                
+              </div>
+              <div id="back">back</div>
+          </div>
+          -->
+        
+        </section>
+      </div>
+    </main>
+  </body>
+</html>
