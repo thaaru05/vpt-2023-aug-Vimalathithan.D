@@ -29,6 +29,11 @@ Thaarugeshwari K S ~ 22i270@psgtech.ac.in
 
 Sanjay A C~ 22i355@psgtech.ac.in 
 
+The web page is hosted using github pages.
+
+link to live url:
+
+https://vimalathithan17.github.io/vpt-2023-aug-Vimalathithan.D/
 
 How to Use the code:
 
