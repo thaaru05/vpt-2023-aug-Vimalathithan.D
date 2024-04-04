@@ -18,14 +18,14 @@ Technology Used:
 
 Contact:
 
-
+Thaarugeshwari K S ~ 22i270@psgtech.ac.in
 Vimalathithan D ~ 22i272@psgtech.ac.in
-
 Siddharth A ~ 22i258@psgtech.ac.in
-
 Saravana Kumar S ~ 22i252@psgtech.ac.in
 
-Thaarugeshwari K S ~ 22i270@psgtech.ac.in
+
+
+
 
 Sanjay A C~ 22i355@psgtech.ac.in 
 
